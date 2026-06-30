@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Danilo Ribeiro 👋</h1>
-<h3 align="center">Desenvolvedor Front-End | Criando experiências web modernas e funcionais</h3>
+<h1 align="center">Danilo Ribeiro</h1>
+<h3 align="center">Desenvolvedor Front-End</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danilo-oliveira-127b3126a/" target="_blank">
@@ -15,17 +15,17 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-Sou desenvolvedor front-end, apaixonado por tecnologia e design, sempre em busca de aprender e aplicar boas práticas no dia a dia. Tenho foco em construir interfaces modernas, funcionais e bem cuidadas nos detalhes, unindo lógica de programação com sensibilidade visual.
+Sou desenvolvedor front-end, com foco na construção de interfaces modernas, funcionais e bem cuidadas nos detalhes. Busco constantemente aprimorar minhas habilidades técnicas e aplicar boas práticas de desenvolvimento no dia a dia.
 
-Fora do código, também tenho experiência com edição de vídeos, o que me ajuda a olhar para qualquer projeto com um olhar mais criativo e atento à experiência de quem vai usar ou ver o resultado final.
+Tenho também experiência em edição de vídeos, o que contribui para um olhar mais atento à experiência visual e à usabilidade nos projetos em que trabalho.
 
-Atualmente, estou me dedicando a evoluir como desenvolvedor front-end e a expandir meu portfólio com projetos que mostrem na prática o que sei fazer.
+Atualmente, dedico-me a expandir meu portfólio com projetos que demonstrem, na prática, minhas competências como desenvolvedor.
 
 ---
 
-### 🛠️ Tecnologias
+### Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,9 +35,9 @@ Atualmente, estou me dedicando a evoluir como desenvolvedor front-end e a expand
 
 ---
 
-### 📌 Projetos em Destaque
+### Projetos em Destaque
 
-> *(Em breve! Estou organizando meus principais projetos para apresentar aqui com link, descrição e tecnologias usadas em cada um.)*
+> *Seção em atualização. Em breve, projetos selecionados serão apresentados aqui com descrição, link e tecnologias utilizadas.*
 
 <!--
 ### [Nome do Projeto](link-do-repositorio)
@@ -47,7 +47,7 @@ Breve descrição do que o projeto faz e qual problema resolve.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ooliveiradev&show_icons=true&theme=transparent" width="48%" />
@@ -56,4 +56,4 @@ Breve descrição do que o projeto faz e qual problema resolve.
 
 ---
 
-<p align="center">💡 Aberto a oportunidades e sempre disposto a trocar uma ideia sobre tecnologia, design ou projetos novos!</p>
+<p align="center">Aberto a oportunidades e disponível para contato profissional.</p>
